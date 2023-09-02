@@ -238,6 +238,12 @@ and `mix` under the `doc` directory. If you are planning to contribute documenta
   [9]: SECURITY.md
   [10]: https://groups.google.com/forum/#!searchin/elixir-lang-ann/%5Bsecurity%5D%7Csort:date
 
+## Courses
+
+Are you trobuling with elixir, then you should checkout these courses:
+
+[iSAQB® FLEX - Flexible Architecture Models Certification](https://tectrain.ch/en/isaqb/advanced-flex) by [tectrain](https://tectrain.ch/en)
+
 ## License
 
 "Elixir" and the Elixir logo are registered trademarks of The Elixir Team.
